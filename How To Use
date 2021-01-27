@@ -1,0 +1,10 @@
+Step 1. Make sure you have python 3 installed on your computer 
+download here: https://www.python.org/download/releases/3.0/
+
+Step 2. If import selenium and import webdriver_manager aren't downloaded do this:
+run in command prompt/terminal: 
+pip install selenium
+pip install webdriver_manager
+
+Step 3.
+Run the python file
